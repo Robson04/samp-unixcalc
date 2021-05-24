@@ -14,20 +14,20 @@ bool:IsLeapYear(year);
 GetMonthName(month);
 ```
 ###### Parameters:
-``
-UnixToTimeStamp
+
+#### UnixToTimeStamp
 - unix - seconds int of 1970-01-01
 - year - returns unix year of today date
 - month - returns unix month of today date
 - day - returns unix day of today
 - hour, minute, seconds - returs unix time of today.
 
-IsLeapYear
+#### IsLeapYear
 - returns boolean if year is leap.
 
-GetMonthName
+#### GetMonthName
 - returns month name.
-``
+
 
 ###### Example ussage:
 ```pawn
