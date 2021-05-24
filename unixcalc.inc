@@ -2,11 +2,10 @@
 	Include created by Robson04
 	Unix Manager Inc.
 */
-
 #include <a_samp>
 
 forward bool:IsLeapYear(year);
-new days_in_month[][] =
+new days_in_month[][] = 
 {
 	{1, 31, "January"},
 	{2, 28, "February"},
