@@ -31,7 +31,7 @@ GetMonthName(month);
 
 ###### Example ussage:
 ```pawn
-#include <unixcalc.inc>
+#include "unix-converter.inc"
 main()
 {
     #define example_unix 1588669331 //Tuesday, 5 May 2020 09:02:11
